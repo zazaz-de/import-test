@@ -3,14 +3,14 @@
 
 	<groupId>de.zazaz.test.github</groupId>
 	<artifactId>github-test</artifactId>
-	<version>0.8</version>
+	<version>0.9-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<scm>
 		<connection>scm:git:https://github.com/zazaz-de/import-test.git</connection>
 		<developerConnection>scm:git:git@github.com:zazaz-de/import-test.git</developerConnection>
 		<url>https://github.com/zazaz-de/import-test.git</url>
-		<tag>github-test-0.8</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<distributionManagement>
